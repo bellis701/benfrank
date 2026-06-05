@@ -101,18 +101,6 @@ nav a {
   z-index: 0;
 }
 
-.hero-box-logo {
-  position: absolute;
-  top: 50%;
-  left: 50%;
-  width: 320px;
-  max-width: 40%;
-  opacity: 0.08;
-  transform: translate(-50%, -50%);
-  z-index: 0;
-  pointer-events: none;
-}
-
 .hero-text {
   max-width: 100%;
   width: 48%;
